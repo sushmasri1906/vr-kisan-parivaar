@@ -148,16 +148,16 @@ export default function Footer() {
 						Privacy Policy
 					</Link>
 				</div>
-				{/* <div>
+				<div>
 					Developed by{" "}
 					<a
-						href="https://www.hsdev.in"
+						href="https://www.vrtechforz.com/"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="text-[#72d275] hover:underline">
-						HSDev
+						VR Tech Forz
 					</a>
-				</div> */}
+				</div>
 			</div>
 		</footer>
 	);
