@@ -15,6 +15,11 @@ export const metadata: Metadata = {
 
 const BENEFITS = [
 	{
+		title: "1 Free Health Check up",
+		desc: "Each beneficiary will receive one free health check-up as part of our beneficiary program, equivalent to the registration amount.",
+		accent: "health",
+	},
+	{
 		title: "Health Care Services for 5 Years",
 		desc: "General care, specialty treatments, Ayurveda, Homeopathy,Dental, Eye, and Skin care Up to 40% discount at VR Kisan  Parivaar–empanelled hospitals.",
 		accent: "health",
@@ -29,11 +34,6 @@ const BENEFITS = [
 		title: "Discounted Provisions & Cashback Offers",
 		desc: "Enjoy special discounts and exclusive offers on daily essentials at VR 1 Mart stores, plus empanelled pharmacies, labs, and diagnostic centers.",
 		accent: "savings",
-	},
-	{
-		title: "1 Free Health Check up",
-		desc: "Each beneficiary will receive one free health check-up as part of our beneficiary program, equivalent to the registration amount.",
-		accent: "health",
 	},
 ] as const;
 
