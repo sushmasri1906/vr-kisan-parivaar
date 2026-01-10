@@ -39,7 +39,7 @@ export default function PersonalDetails({
 			</div>
 
 			<div>
-				<label className="mb-1 block text-sm font-medium">Relation Type</label>
+				<label className="mb-1 block text-sm font-medium"></label>
 				<RadioGroup
 					name="relationType"
 					register={register}
